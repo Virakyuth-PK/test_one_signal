@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067464086681",
+    "project_id": "testonesignal-3934c",
+    "storage_bucket": "testonesignal-3934c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067464086681:android:37763666245c4f0f631408",
+        "android_client_info": {
+          "package_name": "com.virakyuthpk.test_one_signal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067464086681-2l68o7b19aestf8nv6078b8ldol3gdiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFJYVWZiAc5nfxXE1F9q_yHOPMnWu676w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067464086681-2l68o7b19aestf8nv6078b8ldol3gdiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
