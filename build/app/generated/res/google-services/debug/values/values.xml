@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1067464086681-2l68o7b19aestf8nv6078b8ldol3gdiq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1067464086681</string>
+    <string name="google_api_key" translatable="false">AIzaSyBFJYVWZiAc5nfxXE1F9q_yHOPMnWu676w</string>
+    <string name="google_app_id" translatable="false">1:1067464086681:android:37763666245c4f0f631408</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBFJYVWZiAc5nfxXE1F9q_yHOPMnWu676w</string>
+    <string name="google_storage_bucket" translatable="false">testonesignal-3934c.appspot.com</string>
+    <string name="project_id" translatable="false">testonesignal-3934c</string>
+</resources>

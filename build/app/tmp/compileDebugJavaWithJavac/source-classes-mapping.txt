@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/virakyuthpk/test_one_signal/BuildConfig.java
+ com.virakyuthpk.test_one_signal.BuildConfig
